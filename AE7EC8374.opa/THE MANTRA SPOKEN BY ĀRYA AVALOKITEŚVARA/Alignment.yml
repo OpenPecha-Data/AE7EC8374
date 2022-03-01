@@ -1,0 +1,19 @@
+segment_sources:
+  P8ED67086:
+    type: origin_type
+    relation: translation
+    language: bo
+  P64F65A2A:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  5d0b23a1bb1a46ceaf0c016306e620ec:
+    P8ED67086: d2e40bf3dd2a4e8d875851cd827de539
+    P64F65A2A: 787fa32d9011492d8530c44dcc21add1
+  7174f5d955144db984f68d3ae16c1c2b:
+    P8ED67086: a0a2b8b6c13e4c9f9641c740b05680f1
+    P64F65A2A: dcf62c705db347738fce2faf3ecf6406
+  74116ba56b764da7856d56499a864e97:
+    P8ED67086: 2fcbce75b5624da9ac677663330ebc51
+    P64F65A2A: 0fcb86835d06437eb9fb1b4dd770ee83
